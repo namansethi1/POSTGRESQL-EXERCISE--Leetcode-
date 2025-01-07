@@ -55,7 +55,7 @@ Here are some of the SQL problem topics you will find in this repository:
 
 1. Clone this repository using:
     ```bash
-    git clone https://github.com/your-username/leetcode-sql-challenges.git
+    git clone https://github.com/namansethi1/POSTGRESQL-EXERCISE--Leetcode-.git
     ```
 2. Navigate to the repository folder:
     ```bash
