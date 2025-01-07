@@ -1,6 +1,6 @@
-# LeetCode SQL Challenges
+# LeetCode SQL Challenges (Crack SQL Interview in 50 Qs)
 
-![Crack SQL Interview in 50 Qs](![alt text](image.png))
+![alt text](image-1.png)
 
 This repository contains solutions to the **LeetCode SQL Challenges**. I have solved 50 unique SQL problems from LeetCode and uploaded the corresponding queries here.
 
