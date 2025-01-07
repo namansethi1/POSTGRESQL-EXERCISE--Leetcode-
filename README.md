@@ -1,6 +1,3 @@
-Here’s a template for your `README.md` file based on the provided information:
-
-```markdown
 # LeetCode SQL Challenges
 
 ![Crack SQL Interview in 50 Qs](![alt text](image.png))
@@ -75,13 +72,7 @@ Feel free to fork this repository, submit pull requests, or open issues for any 
 
 If you have any questions or feedback, please feel free to reach out to me:
 
-- **Email**: your-email@example.com
-- **GitHub**: https://github.com/your-username
+- **Email**: sethin815@gmail.com
+- **GitHub**: https://github.com/namansethi1
 
 Happy Learning and Good Luck with your SQL Interview Prep!
-```
-
-### Instructions:
-1. Replace `your-username` with your GitHub username.
-2. Replace `your-email@example.com` with your email address.
-3. Make sure the image file (`Crack_SQL_Interview_in_50_Qs_SQL_50.png`) is placed in the same directory as the `README.md` file or update the path if necessary.
